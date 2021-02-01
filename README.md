@@ -1,5 +1,7 @@
+## 以下是原模型作者的说明文档 本人对此模型进行了迁移学习 此文档供了解模型
+
 # A Deep-Learning-Based Chinese Speech Recognition System
-基于深度学习的中文语音识别系统，如果您觉得喜欢，请点一个 **"Star"** 吧~
+基于深度学习的中文语音识别系统
 
 [![GPL-3.0 Licensed](https://img.shields.io/badge/License-GPL3.0-blue.svg?style=flat)](https://opensource.org/licenses/GPL-3.0) 
 [![TensorFlow Version](https://img.shields.io/badge/Tensorflow-1.13+-blue.svg)](https://www.tensorflow.org/) 
@@ -10,7 +12,6 @@
 
 [**查看本项目的Wiki文档**](https://asrt.ailemon.me/docs/) 
 
-如果程序运行期间或使用中有什么问题，可以及时在issue中提出来，我将尽快做出答复。本项目作者交流QQ群：**867888133**
 
 提问前可以先 [查看常见问题](https://asrt.ailemon.me/docs/issues) 避免重复提问
 
